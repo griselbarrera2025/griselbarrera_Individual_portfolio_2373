@@ -1,1 +1,42 @@
-# griselbarrera_Individual_portfolio_2373
+# Grisel Barrera — Applied AI & Robotics Portfolio (HCC)
+
+**Program:** Applied AI & Robotics, Houston Community College  
+**Location:** Houston, TX  
+**Email:** griselbarrera2016@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/GriselBarrera
+
+---
+
+## 📄 Overview
+This portfolio showcases hands-on projects completed during the Applied AI & Robotics program at Houston Community College.  
+Skills demonstrated include: deep learning, natural language processing, computer vision, audio analysis, IoT/edge AI, and conversational AI.
+
+---
+
+## 📚 Courses & Skills
+- **Deep Learning (ITAI 2376)** – CNNs, RNNs, GANs, U-Net, optimization, diffusion models
+- **Natural Language Processing (ITAI 2373)** – Preprocessing, sentiment/emotion analysis, NER, POS tagging, topic modeling
+- **AI at the Edge / IoT (ITAI 3377)** – Embedded AI systems, sensor data processing, low-latency models
+- **Conversational AI** – Intent classification, dialogue systems, LLM integration
+
+---
+
+## 📌 Featured Projects
+- [**BBC News Classification (NLP)**](NLP-ITAI2373/Text-Processing-Project/)  
+- [**Text Representation: BoW, TF-IDF, Word Embeddings**](NLP-ITAI2373/Text-Representation/)  
+- [**Intro to Audio & Preprocessing (MFCCs)**](NLP-ITAI2373/Intro-to-Audio-and-Preprocessing/)  
+- [**Sentiment & Emotion Analysis**](NLP-ITAI2373/Sentiment-and-Emotion-Analysis/)  
+- [**Syntax Parsing & Semantic Analysis**](NLP-ITAI2373/Syntax-Parsing-and-Semantic-Analysis/)  
+- [**Smart IoT Sensor Alert System**](AI-at-the-Edge-IoT-ITAI3377/SmartSensorSystem/)  
+
+---
+
+## ▶️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/Grisel-Barrera-HCC-AI.git
+   cd Grisel-Barrera-HCC-AI
+pip install -r requirements.txt
+
+---
+
