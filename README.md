@@ -37,17 +37,8 @@ Skills demonstrated include: deep learning, natural language processing, compute
    ```bash
    git clone https://github.com/griselbarrera2025/griselbarrera_Individual_portfolio_2373.git
    cd griselbarrera_Individual_portfolio_2373
-Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
-Open any project folder and follow its README.md.
 
-markdown
-Copy
-Edit
 
 
 ---
