@@ -1,3 +1,30 @@
+Grisel-Barrera-AI-Portfolio/
+├── README.md
+├── DeepLearning-ITAI2376/
+│   ├── Project1/
+│   │   ├── README.md
+│   │   ├── model.py
+│   │   ├── dataset/
+│   │   └── results/
+│   └── Project2/
+│       ├── README.md
+│       ├── model.py
+│       ├── dataset/
+│       └── results/
+├── NLP-ITAI2373/
+│   ├── Project1/
+│   │   ├── README.md
+│   │   └── main.py
+│   └── Project2/
+│       ├── README.md
+│       └── main.py
+├── AI at the Edge  IoT-ITAI3377/
+│   └── Project1/
+│       ├── README.md
+│       └── main.py
+└── Presentation/
+    └── Pf_Grisel_Barrera_ITAI2376.pdf
+
 # Grisel Barrera — Applied AI & Robotics Portfolio (HCC)
 
 **Program:** Applied AI & Robotics, Houston Community College  
