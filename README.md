@@ -22,21 +22,33 @@ Skills demonstrated include: deep learning, natural language processing, compute
 ---
 
 ## 📌 Featured Projects
-- [**BBC News Classification (NLP)**](NLP-ITAI2373/Text-Processing-Project/)  
-- [**Text Representation: BoW, TF-IDF, Word Embeddings**](NLP-ITAI2373/Text-Representation/)  
-- [**Intro to Audio & Preprocessing (MFCCs)**](NLP-ITAI2373/Intro-to-Audio-and-Preprocessing/)  
-- [**Sentiment & Emotion Analysis**](NLP-ITAI2373/Sentiment-and-Emotion-Analysis/)  
-- [**Syntax Parsing & Semantic Analysis**](NLP-ITAI2373/Syntax-Parsing-and-Semantic-Analysis/)  
-- [**Smart IoT Sensor Alert System**](AI-at-the-Edge-IoT-ITAI3377/SmartSensorSystem/)  
+ 
+[**BBC News Classification (NLP)**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Text-Processing-Project/)
+[**Text Representation**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Text-Representation/)
+[**Intro to Audio**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Intro-to-Audio-and-Preprocessing/)
+[**Sentiment & Emotion**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Sentiment-and-Emotion-Analysis/)
+[**Syntax Parsing & Semantic**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Syntax-Parsing-and-Semantic-Analysis/)
+[**Smart IoT Sensor**](Grisel-Barrera-HCC-AI_Custom/AI-at-the-Edge-IoT-ITAI3377/SmartSensorSystem/)
 
 ---
 
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Grisel-Barrera-HCC-AI.git
-   cd Grisel-Barrera-HCC-AI
+   git clone https://github.com/griselbarrera2025/griselbarrera_Individual_portfolio_2373.git
+   cd griselbarrera_Individual_portfolio_2373
+Install dependencies:
+
+bash
+Copy
+Edit
 pip install -r requirements.txt
+Open any project folder and follow its README.md.
+
+markdown
+Copy
+Edit
+
 
 ---
 
