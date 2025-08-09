@@ -23,12 +23,12 @@ Skills demonstrated include: deep learning, natural language processing, compute
 
 ## 📌 Featured Projects
  
-[**BBC News Classification (NLP)**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Text-Processing-Project/)
-[**Text Representation**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Text-Representation/)
-[**Intro to Audio**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Intro-to-Audio-and-Preprocessing/)
-[**Sentiment & Emotion**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Sentiment-and-Emotion-Analysis/)
-[**Syntax Parsing & Semantic**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Syntax-Parsing-and-Semantic-Analysis/)
-[**Smart IoT Sensor**](Grisel-Barrera-HCC-AI_Custom/AI-at-the-Edge-IoT-ITAI3377/SmartSensorSystem/)
+- [**BBC News Classification (NLP)**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Text-Processing-Project/)
+- [**Text Representation: BoW, TF-IDF, Word Embeddings**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Text-Representation/)
+- [**Intro to Audio & Preprocessing (MFCCs)**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Intro-to-Audio-and-Preprocessing/)
+- [**Sentiment & Emotion Analysis**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Sentiment-and-Emotion-Analysis/)
+- [**Syntax Parsing & Semantic Analysis**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Syntax-Parsing-and-Semantic-Analysis/)
+- [**Smart IoT Sensor Alert System**](Grisel-Barrera-HCC-AI_Custom/AI-at-the-Edge-IoT-ITAI3377/SmartSensorSystem/)
 
 ---
 
