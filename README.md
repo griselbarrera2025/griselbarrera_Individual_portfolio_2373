@@ -22,13 +22,12 @@ Skills demonstrated include: deep learning, natural language processing, compute
 ---
 
 ## 📌 Featured Projects
- 
-- [**BBC News Classification (NLP)**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Text-Processing-Project/)
-- [**Text Representation: BoW, TF-IDF, Word Embeddings**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Text-Representation/)
-- [**Intro to Audio & Preprocessing (MFCCs)**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Intro-to-Audio-and-Preprocessing/)
-- [**Sentiment & Emotion Analysis**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Sentiment-and-Emotion-Analysis/)
-- [**Syntax Parsing & Semantic Analysis**](Grisel-Barrera-HCC-AI_Custom/NLP-ITAI2373/Syntax-Parsing-and-Semantic-Analysis/)
-- [**Smart IoT Sensor Alert System**](Grisel-Barrera-HCC-AI_Custom/AI-at-the-Edge-IoT-ITAI3377/SmartSensorSystem/)
+- [**BBC News Classification (NLP)**](NLP-ITAI2373/Text-Processing-Project/)
+- [**Text Representation: BoW, TF-IDF, Word Embeddings**](NLP-ITAI2373/Text-Representation/)
+- [**Intro to Audio & Preprocessing (MFCCs)**](NLP-ITAI2373/Intro-to-Audio-and-Preprocessing/)
+- [**Sentiment & Emotion Analysis**](NLP-ITAI2373/Sentiment-and-Emotion-Analysis/)
+- [**Syntax Parsing & Semantic Analysis**](NLP-ITAI2373/Syntax-Parsing-and-Semantic-Analysis/)
+- [**Smart IoT Sensor Alert System**](AI-at-the-Edge-IoT-ITAI3377/SmartSensorSystem/)
 
 ---
 
@@ -37,9 +36,3 @@ Skills demonstrated include: deep learning, natural language processing, compute
    ```bash
    git clone https://github.com/griselbarrera2025/griselbarrera_Individual_portfolio_2373.git
    cd griselbarrera_Individual_portfolio_2373
-pip install -r requirements.txt
-
-
-
----
-
